@@ -1,0 +1,20 @@
+The objective is for players to reduce the value of the cards in front of them by swapping them for lesser value cards. After the end of each round, players calculate the score of their respective six cards.
+
+Beginning with the person left of the dealer, each player takes turn doing one of three actions:
+
+Draw a card from the discard pile and replace it with any of the player's six cards facing up, regardless if the card replaced is facing up or facing down. (Players must perform the swap if the card is drawn from the discard pile) The card that was replaced is then discarded (facing up).
+Draw a card from the stockpile and replace it with any of the player's six cards facing up (when the card drawn is desirable), regardless if the card replaced is facing up or facing down. The card that was replaced is then discarded (facing up).
+Draw a card from the stockpile and discard the drawn card (when the card is not desirable). It is optional that one of the cards faced down in the player's formation must be revealed (flipped face up) depending on the variation.
+If the card is drawn from the stockpile, the player who drew the card is allowed to inspect their card in order to make a decision.
+
+The round ends when a player has six face-up cards (sometimes the other players are given one final turn following this), after which scoring happens as follows:
+
+Each Ace scores one point
+Each Two scores minus two points
+Each numeral card from 3 to 10 scores its face value
+Each Jack or Queen scores 10 points
+Each King scores zero points
+A pair of equal-ranked cards in the same column scores zero points for that column regardless of the rank of those cards
+During play, it is not legal to return a card drawn from the discard pile without playing it. When a player picks up the top card of the discard pile, that card must be played by swapping it with one of that player's cards.
+
+A full game is typically nine hands, also known as "holes", after which the player with the fewest points total is designated the winner. A longer game can be played with eighteen hands.
